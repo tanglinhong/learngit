@@ -1,5 +1,5 @@
 jfjadflkld
-ijdfhkj
-<<<<<<< HEAD
+ijdfhk
 dafjalsdffa
 fdajfklaj
+afddf
