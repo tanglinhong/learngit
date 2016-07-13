@@ -2,7 +2,4 @@ jfjadflkld
 ijdfhkj
 <<<<<<< HEAD
 dafjalsdffa
-=======
-dafjalsdffa
-
->>>>>>> featrue
+fdajfklaj
